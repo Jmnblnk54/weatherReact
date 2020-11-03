@@ -5,6 +5,8 @@ import {
   Switch,
   Route
 } from "react-router-dom";
+import Splash from "./pages/Splash";
+import AboutMe from "./pages/AboutMe";
 
 function App() {
   return (
